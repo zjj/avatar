@@ -1,5 +1,9 @@
 # avatars
 
+* 2021/08/25
+
+![2020/08/25](/imgs/rustshadow-1536x1021.webp)
+
 * 2020/03/22
 
 ![2021/03/25](/imgs/panda.jpeg)
